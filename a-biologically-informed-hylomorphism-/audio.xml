@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml"/>
+    <copyright>&#xA9; Oxford University</copyright>
+        <description>Sessions from Conference held on January 11th-12th 2018, MBI Auditorium, Corpus Christi College, Oxford. Organizers: Matteo Grasso, Anna Marmodoro, Warren Finegold.
+It&#039;s a common accepted assumption that reality includes the chemical, biological, and psychological, but are they anything over and above the physical? Or can they all be reduced somehow to the physical? Reductionism has been challenged by various forms of emergentism, which many philosophers still see as unsatisfactory. One alternative way to think about this issue, which has recently come to the fore in the metaphysical debates, is along the lines of Aristotle&#039;s Hylomorphism, a view that takes structure and organization to play a pivotal metaphysical role. The aim of this conference is to discuss the assumptions of Hylomorphism, and how it bears on reductionism in relation to special sciences (such as chemistry and biology) and in the philosophy of mind</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Mar 2018 15:26:58 +0000</lastBuildDate>
+    <link>https://www.philosophy.ox.ac.uk</link>
+    <title>The View from Above: Structure, Emergence, and Causation</title>
+    <itunes:author>Oxford University</itunes:author>
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Oxford University</itunes:name>
+      <itunes:email>podcasts@it.ox.ac.uk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://mediapub.it.ox.ac.uk/sites/fred/files/default_images/default-radcliffe.jpg"/>
+    <image>
+      <url>http://mediapub.it.ox.ac.uk/sites/fred/files/default_images/default-radcliffe.jpg</url>
+      <title>The View from Above: Structure, Emergence, and Causation</title>
+      <link>https://www.philosophy.ox.ac.uk</link>
+    </image>
+    <item>
+  <itunes:order>1</itunes:order>
+   <category>hylomorphism</category>
+ <category>aristotle</category>
+ <category>metaphysics</category>
+ <category>emergentism</category>
+ <category>reductionism</category>
+  <description>William Jaworski argues why the hylomorphic structure is the best (and perhaps only) thing that can explain the persistence of individuals that change their matter over time. Hylomorphism claims that some individuals, paradigmatically living things, are composed of physical materials with a form or structure that is responsible for them being and persisting as the kinds of things they are. One objection to hylomorphism claims that an account of the physical materials composing an individual is sufficient to account for everything it is and everything it does. William Jaworski argues that the objection fails insofar as hylomorphic structure is the best (and perhaps only) thing that can explain the persistence of individuals that change their matter over time.</description>
+  <guid isPermaLink="false">http://rss.oucs.ox.ac.uk/tag:2018-03-01:152646:000:file:302716:audio</guid>
+  <link>https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session1_jaworski-720.mp3</link>
+  <itunes:subtitle>William Jaworski argues why the hylomorphic structure is the best (and perhaps only) thing that can explain the persistence of individuals that change their matter over time.</itunes:subtitle>
+    <itunes:summary>William Jaworski argues why the hylomorphic structure is the best (and perhaps only) thing that can explain the persistence of individuals that change their matter over time. Hylomorphism claims that some individuals, paradigmatically living things, are composed of physical materials with a form or structure that is responsible for them being and persisting as the kinds of things they are. One objection to hylomorphism claims that an account of the physical materials composing an individual is sufficient to account for everything it is and everything it does. William Jaworski argues that the objection fails insofar as hylomorphic structure is the best (and perhaps only) thing that can explain the persistence of individuals that change their matter over time.</itunes:summary>
+  <itunes:keywords>hylomorphism,aristotle,metaphysics,emergentism,reductionism,2018-01-11</itunes:keywords>
+  <itunes:author>William Jaworski</itunes:author>
+  <itunesu:category itunesu:code="114103"/>
+  <itunes:duration>5814</itunes:duration>
+  <enclosure url="https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session1_jaworski-720.mp3" length="1224117016" type="audio/mpeg" />
+  <pubDate>Tue, 27 Feb 2018 14:38:37 +0000</pubDate>
+  <source url="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml">The View from Above: Structure, Emergence, and Causation</source>
+  <title>Hylomorphic Structure, Emergence, and Supervenience </title>
+</item>
+<item>
+  <itunes:order>2</itunes:order>
+   <category>hylomorphism</category>
+ <category>metaphysics</category>
+ <category>aristotle</category>
+  <description>Utilising recent advances in developmental biology, Christopher Austin argues  that the hylomorphic framework is an empirically adequate and conceptually rich explanatory schema with which to model the nature of organisms. Although contemporary metaphysics has recently undergone a neo-Aristotelian revival wherein dispositions, or capacities are now commonplace in empirically grounded ontologies, being routinely utilised in theories of causality and modality, a central Aristotelian concept has yet to be given serious attention – the doctrine of hylomorphism. The reason for this is clear: while the Aristotelian ontological distinction between actuality and potentiality has proven to be a fruitful conceptual framework with which to model the operation of the natural world, the distinction between form and matter has yet to similarly earn its keep. In this talk, I offer a first step toward showing that the hylomorphic framework is up to that task. To do so, I return to the birthplace of that doctrine - the biological realm. Utilising recent advances in developmental biology, I argue that the hylomorphic framework is an empirically adequate and conceptually rich explanatory schema with which to model the nature of organisms.</description>
+  <guid isPermaLink="false">http://rss.oucs.ox.ac.uk/tag:2018-03-01:152658:000:file:302717:audio</guid>
+  <link>https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session2_austin-720.mp3</link>
+  <itunes:subtitle>Utilising recent advances in developmental biology, Christopher Austin argues  that the hylomorphic framework is an empirically adequate and conceptually rich explanatory schema with which to model the nature of organisms.</itunes:subtitle>
+    <itunes:summary>Utilising recent advances in developmental biology, Christopher Austin argues  that the hylomorphic framework is an empirically adequate and conceptually rich explanatory schema with which to model the nature of organisms. Although contemporary metaphysics has recently undergone a neo-Aristotelian revival wherein dispositions, or capacities are now commonplace in empirically grounded ontologies, being routinely utilised in theories of causality and modality, a central Aristotelian concept has yet to be given serious attention – the doctrine of hylomorphism. The reason for this is clear: while the Aristotelian ontological distinction between actuality and potentiality has proven to be a fruitful conceptual framework with which to model the operation of the natural world, the distinction between form and matter has yet to similarly earn its keep. In this talk, I offer a first step toward showing that the hylomorphic framework is up to that task. To do so, I return to the birthplace of that doctrine - the biological realm. Utilising recent advances in developmental biology, I argue that the hylomorphic framework is an empirically adequate and conceptually rich explanatory schema with which to model the nature of organisms.</itunes:summary>
+  <itunes:keywords>hylomorphism,metaphysics,aristotle,2018-01-11</itunes:keywords>
+  <itunes:author>Christopher J Austin</itunes:author>
+  <itunesu:category itunesu:code="114103"/>
+  <itunes:duration>4397</itunes:duration>
+  <enclosure url="https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session2_austin-720.mp3" length="895293645" type="audio/mpeg" />
+  <pubDate>Tue, 27 Feb 2018 14:43:47 +0000</pubDate>
+  <source url="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml">The View from Above: Structure, Emergence, and Causation</source>
+  <title>A Biologically Informed Hylomorphism </title>
+</item>
+<item>
+  <itunes:order>3</itunes:order>
+   <category>hylomorphism</category>
+ <category>metaphysics</category>
+ <category>functionalism</category>
+ <category>supervenient</category>
+ <category>emergentism</category>
+  <description>David Yates argues that some physically realised qualitative properties have their causal roles solely in virtue of being the qualities they are, and not in virtue of the powers bestowed by their physical realizers on a given occasion. In this paper I argue that some physically realised qualitative properties have their causal roles solely in virtue of being the qualities they are, and not in virtue of the powers bestowed by their physical realizers on a given occasion. This theory requires a broad notion of physical realization that encompasses the realization of properties such as structure and shape, as well as functional properties. I appeal to the causal role of molecular structure in support of my position, and suggest that powerful qualities of this kind exhibit emergent downward causation without violating physical realization, or the causal closure of the broadly physical. The resulting theory, I suggest, offers far better resources for explaining the autonomy of the special sciences than traditional alternatives such as functionalism and supevenience emergentism</description>
+  <guid isPermaLink="false">http://rss.oucs.ox.ac.uk/tag:2018-03-01:152440:000:file:302718:audio</guid>
+  <link>https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session3_yates-720.mp3</link>
+  <itunes:subtitle>David Yates argues that some physically realised qualitative properties have their causal roles solely in virtue of being the qualities they are, and not in virtue of the powers bestowed by their physical realizers on a given occasion.</itunes:subtitle>
+    <itunes:summary>David Yates argues that some physically realised qualitative properties have their causal roles solely in virtue of being the qualities they are, and not in virtue of the powers bestowed by their physical realizers on a given occasion. In this paper I argue that some physically realised qualitative properties have their causal roles solely in virtue of being the qualities they are, and not in virtue of the powers bestowed by their physical realizers on a given occasion. This theory requires a broad notion of physical realization that encompasses the realization of properties such as structure and shape, as well as functional properties. I appeal to the causal role of molecular structure in support of my position, and suggest that powerful qualities of this kind exhibit emergent downward causation without violating physical realization, or the causal closure of the broadly physical. The resulting theory, I suggest, offers far better resources for explaining the autonomy of the special sciences than traditional alternatives such as functionalism and supevenience emergentism</itunes:summary>
+  <itunes:keywords>hylomorphism,metaphysics,functionalism,supervenient,emergentism,2018-01-11</itunes:keywords>
+  <itunes:author>David yates</itunes:author>
+  <itunesu:category itunesu:code="114103"/>
+  <itunes:duration>5190</itunes:duration>
+  <enclosure url="https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session3_yates-720.mp3" length="1043036536" type="audio/mpeg" />
+  <pubDate>Tue, 27 Feb 2018 14:50:27 +0000</pubDate>
+  <source url="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml">The View from Above: Structure, Emergence, and Causation</source>
+  <title>Dependent Powerful Qualities and Grounded Downward Causation </title>
+</item>
+<item>
+  <itunes:order>4</itunes:order>
+   <category>hylomorphism</category>
+ <category>metaphysics</category>
+ <category>aristotle</category>
+  <description>Howard Robinson argues that the early moderns were right to think that Aristotelian or scholastic hylomorphism was inconsistent with modern science. An emphasis on the teleological component in hylomorphism can, together with an appeal to Divine design, restore a kind of hylomorphism - and also help to articulate the doctrine of transubstantiation. None of this makes any serious contribution to solving the mind-body problem.</description>
+  <guid isPermaLink="false">http://rss.oucs.ox.ac.uk/tag:2018-03-01:152526:000:file:302719:audio</guid>
+  <link>https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session4_robinson-720.mp3</link>
+  <itunes:subtitle>Howard Robinson argues that the early moderns were right to think that Aristotelian or scholastic hylomorphism was inconsistent with modern science.</itunes:subtitle>
+    <itunes:summary>Howard Robinson argues that the early moderns were right to think that Aristotelian or scholastic hylomorphism was inconsistent with modern science. An emphasis on the teleological component in hylomorphism can, together with an appeal to Divine design, restore a kind of hylomorphism - and also help to articulate the doctrine of transubstantiation. None of this makes any serious contribution to solving the mind-body problem.</itunes:summary>
+  <itunes:keywords>hylomorphism,metaphysics,aristotle,2018-01-12</itunes:keywords>
+  <itunes:author>Howard Robinson</itunes:author>
+  <itunesu:category itunesu:code="114103"/>
+  <itunes:duration>5401</itunes:duration>
+  <enclosure url="https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session4_robinson-720.mp3" length="1120373624" type="audio/mpeg" />
+  <pubDate>Tue, 27 Feb 2018 15:02:43 +0000</pubDate>
+  <source url="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml">The View from Above: Structure, Emergence, and Causation</source>
+  <title>Hylomorphism, natural science, mind and God </title>
+</item>
+<item>
+  <itunes:order>5</itunes:order>
+   <category>Modal Epistemology</category>
+ <category>hylomorphism</category>
+ <category>metaphysics</category>
+ <category>aristotle</category>
+  <description>A defence of the Formal Identity Thesis and of the immateriality of the human intellect, based on specifically epistemological arguments about our knowledge of necessary or essential truths, including especially essential truths about value. In De Anima Book III, Aristotle subscribed to a theory of “formal identity” between the human mind and the extra-mental objects of our understanding. This has been one of the most controversial features of Aristotelian metaphysics of the mind. I offer here a defense of the Formal Identity Thesis and of the immateriality of the human intellect, based on specifically epistemological arguments about our knowledge of necessary or essential truths, including especially essential truths about value.</description>
+  <guid isPermaLink="false">http://rss.oucs.ox.ac.uk/tag:2018-03-01:152633:000:file:302720:audio</guid>
+  <link>https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session5_koons-720.mp3</link>
+  <itunes:subtitle>A defence of the Formal Identity Thesis and of the immateriality of the human intellect, based on specifically epistemological arguments about our knowledge of necessary or essential truths, including especially essential truths about value.</itunes:subtitle>
+    <itunes:summary>A defence of the Formal Identity Thesis and of the immateriality of the human intellect, based on specifically epistemological arguments about our knowledge of necessary or essential truths, including especially essential truths about value. In De Anima Book III, Aristotle subscribed to a theory of “formal identity” between the human mind and the extra-mental objects of our understanding. This has been one of the most controversial features of Aristotelian metaphysics of the mind. I offer here a defense of the Formal Identity Thesis and of the immateriality of the human intellect, based on specifically epistemological arguments about our knowledge of necessary or essential truths, including especially essential truths about value.</itunes:summary>
+  <itunes:keywords>Modal Epistemology,hylomorphism,metaphysics,aristotle</itunes:keywords>
+  <itunes:author>Robert Koons</itunes:author>
+  <itunesu:category itunesu:code="114101"/>
+  <itunes:duration>5397</itunes:duration>
+  <enclosure url="https://raw.githubusercontent.com/NKb03/converted-podcasts/master/a-biologically-informed-hylomorphism-/session5_koons-720.mp3" length="1134718338" type="audio/mpeg" />
+  <pubDate>Tue, 27 Feb 2018 15:08:40 +0000</pubDate>
+  <source url="http://mediapub.it.ox.ac.uk/feeds/141600/video.xml">The View from Above: Structure, Emergence, and Causation</source>
+  <title>Modal Epistemology and the Formal Identity of Intellect and Object </title>
+</item>
+  </channel>
+</rss>
